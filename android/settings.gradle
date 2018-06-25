@@ -1,0 +1,3 @@
+rootProject.name = 'arabica'
+
+include ':app'
